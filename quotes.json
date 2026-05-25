@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "category": "shame-and-hiding",
+    "tags": [
+      "networking",
+      "early-search",
+      "courage"
+    ],
+    "headline": "Tell someone you trust that you are looking. Do it this week.",
+    "full": "The people most likely to help you are the ones you have been too proud or too private to tell. A friend, a former colleague, a cousin. You do not need to announce it to the world. You just need to stop hiding it from the people who are already in your corner."
+  },
+  {
+    "id": 2,
+    "category": "shame-and-hiding",
+    "tags": [
+      "networking",
+      "stigma",
+      "courage"
+    ],
+    "headline": "There is no shame in looking for work. There is only time lost in hiding it.",
+    "full": "Every week you spend not telling people costs you opportunities you will never know existed. Someone in your life right now knows someone who is hiring. They just do not know you need to hear about it."
+  },
+  {
+    "id": 3,
+    "category": "shame-and-hiding",
+    "tags": [
+      "stigma",
+      "mindset",
+      "community"
+    ],
+    "headline": "You are not the only one going through this. Not even close.",
+    "full": "At any given moment, millions of people are sitting where you are sitting, feeling what you are feeling, wondering if it will ever move. The loneliness of a job search is one of its cruelest tricks. It makes a shared experience feel like a personal failure."
+  },
+  {
+    "id": 4,
+    "category": "shame-and-hiding",
+    "tags": [
+      "networking",
+      "stigma",
+      "outreach"
+    ],
+    "headline": "Update your LinkedIn. Let people know you are open. It costs nothing.",
+    "full": "You do not have to write a long post about your journey. A simple open to work signal, a short note to a few people you respect, a message to a former manager. Small visible moves compound. Hiding compounds too, just in the wrong direction."
+  },
+  {
+    "id": 5,
+    "category": "shame-and-hiding",
+    "tags": [
+      "community",
+      "support",
+      "mindset"
+    ],
+    "headline": "Talk to someone else who is searching. They will understand in a way others cannot.",
+    "full": "Friends and family want to help but they often do not know what the process actually feels like. Someone else in the middle of it does. Find them. Compare notes. The shared experience of it makes the hard days lighter."
+  },
+  {
+    "id": 6,
+    "category": "invisible-wall",
+    "tags": [
+      "applications",
+      "networking",
+      "strategy"
+    ],
+    "headline": "If resumes are not working, the answer is not more resumes.",
+    "full": "At some point the problem stops being the document and starts being visibility. Someone who knows you, or knows someone who knows you, can get your name in front of a person faster than a hundred cold applications ever will."
+  },
+  {
+    "id": 7,
+    "category": "invisible-wall",
+    "tags": [
+      "applications",
+      "resume",
+      "data"
+    ],
+    "headline": "A few rejections is not a pattern. It is barely a sample size.",
+    "full": "Five applications with no response tells you almost nothing. Twenty tells you something worth acting on. Until you have real data, do not build a story from noise. Cast wider before you conclude anything."
+  },
+  {
+    "id": 8,
+    "category": "invisible-wall",
+    "tags": [
+      "rejection",
+      "mindset",
+      "process"
+    ],
+    "headline": "Silence from a company is not a verdict on you.",
+    "full": "Companies are slow, chaotic, and distracted. A recruiter at a mid-size company can receive three hundred applications for a single role. An unanswered application says more about their process than your worth. Keep moving."
+  },
+  {
+    "id": 9,
+    "category": "invisible-wall",
+    "tags": [
+      "resume",
+      "applications",
+      "visibility"
+    ],
+    "headline": "One line on your resume could be the reason nobody is calling.",
+    "full": "It is rarely the whole document. Sometimes it is one vague bullet point, one missing keyword, one job title that does not match what they searched for. Get someone to look at it with fresh eyes before you decide the market is broken."
+  },
+  {
+    "id": 10,
+    "category": "invisible-wall",
+    "tags": [
+      "outreach",
+      "networking",
+      "visibility"
+    ],
+    "headline": "A warm introduction is worth fifty cold applications.",
+    "full": "This is not an opinion. It is how hiring actually works. People hire people they have heard of. If you can get someone to say your name in a room before your resume arrives, the game changes entirely. Work your existing relationships before you exhaust cold outreach."
+  },
+  {
+    "id": 11,
+    "category": "invisible-wall",
+    "tags": [
+      "resume",
+      "applications",
+      "strategy"
+    ],
+    "headline": "Your resume has eight seconds. Make the first third count.",
+    "full": "Recruiters do not read resumes. They scan them. The top third of the first page is where decisions get made. If your most relevant experience and clearest value is buried halfway down, it is not being seen. Restructure before you reapply."
+  },
+  {
+    "id": 12,
+    "category": "invisible-wall",
+    "tags": [
+      "applications",
+      "strategy",
+      "volume"
+    ],
+    "headline": "Volume matters before precision does. Cast wide first.",
+    "full": "In the early weeks, send more applications than feel comfortable. You are not being reckless. You are gathering data. Ten responses, positive or negative, will teach you more than perfecting the same three applications for a month."
+  },
+  {
+    "id": 13,
+    "category": "advice-overload",
+    "tags": [
+      "strategy",
+      "focus",
+      "noise"
+    ],
+    "headline": "Pick one thing and do it well for two weeks before trying something new.",
+    "full": "Every week there is a new framework, a new hack, a new thing you should be doing. Most of it is noise. The people who make progress are not the ones doing everything. They are the ones doing one thing consistently long enough to see whether it works."
+  },
+  {
+    "id": 14,
+    "category": "advice-overload",
+    "tags": [
+      "noise",
+      "focus",
+      "mindset"
+    ],
+    "headline": "Not every piece of advice is meant for your situation. Filter ruthlessly.",
+    "full": "Advice that worked for someone in a different field, a different city, a different point in their career may not work for you. Take what is relevant, discard what is not, and stop trying to act on everything you read. Selective execution beats exhaustive experimentation."
+  },
+  {
+    "id": 15,
+    "category": "advice-overload",
+    "tags": [
+      "strategy",
+      "focus",
+      "process"
+    ],
+    "headline": "You do not need a better strategy every week. You need to follow one long enough.",
+    "full": "Switching approaches constantly feels like progress. It rarely is. Give a strategy enough time to produce data before you abandon it. Most approaches work if you work them long enough. Most fail because people give up before the results show up."
+  },
+  {
+    "id": 16,
+    "category": "advice-overload",
+    "tags": [
+      "noise",
+      "linkedin",
+      "focus"
+    ],
+    "headline": "LinkedIn advice from people who are not hiring is mostly noise.",
+    "full": "The loudest voices on job search advice are often people who have not hired anyone, or who hired in a different era, or who are selling something. Weight advice by whether the person has actually sat on the other side of the table recently."
+  },
+  {
+    "id": 17,
+    "category": "identity-erosion",
+    "tags": [
+      "mindset",
+      "worth",
+      "rejection"
+    ],
+    "headline": "Your employability is not your worth. They are not even close to the same thing.",
+    "full": "A slow job search does not mean you are not good enough. It means the process is slow, the market is hard, and timing is unpredictable. The search is a reflection of those things. Not of you."
+  },
+  {
+    "id": 18,
+    "category": "identity-erosion",
+    "tags": [
+      "mindset",
+      "identity",
+      "long-search"
+    ],
+    "headline": "You are not what your job title says. You never were.",
+    "full": "It is easy to forget this when you are between roles. The gap on a resume starts to feel like a gap in who you are. It is not. What you know, what you have built, what you are capable of does not disappear because you are between jobs."
+  },
+  {
+    "id": 19,
+    "category": "identity-erosion",
+    "tags": [
+      "mindset",
+      "long-search",
+      "resilience"
+    ],
+    "headline": "A long search is not evidence that something is wrong with you.",
+    "full": "Some of the most capable people have the longest searches. Timing, market conditions, geography, the specific role you want - these are real variables that have nothing to do with your ability. Separate the length of the search from the quality of the person doing it."
+  },
+  {
+    "id": 20,
+    "category": "identity-erosion",
+    "tags": [
+      "mindset",
+      "worth",
+      "community"
+    ],
+    "headline": "The version of you that got the last job is still the version applying now.",
+    "full": "Nothing about you has diminished because the market is slow or because a company said no. Your experience is still real. Your skills are still real. You are not a worse candidate than you were six months ago. The circumstances changed. You did not."
+  },
+  {
+    "id": 21,
+    "category": "identity-erosion",
+    "tags": [
+      "age",
+      "mindset",
+      "universal"
+    ],
+    "headline": "Looking for work is a skill everyone has to learn. It does not get easier with age or experience.",
+    "full": "Whether you are 25 or 55, the process is uncomfortable, humbling, and hard. Seniority does not exempt you from rejection. Experience does not make the silence easier to sit with. This is hard for everyone. You are not behind."
+  },
+  {
+    "id": 22,
+    "category": "comparison-trap",
+    "tags": [
+      "mindset",
+      "linkedin",
+      "focus"
+    ],
+    "headline": "Someone else getting a job is not evidence that you are failing.",
+    "full": "LinkedIn is a highlight reel. Every offer announcement hides the months of searching, the rejections, the near misses. Someone else's yes does not mean your no is permanent. Their timeline is not your timeline."
+  },
+  {
+    "id": 23,
+    "category": "comparison-trap",
+    "tags": [
+      "mindset",
+      "timeline",
+      "focus"
+    ],
+    "headline": "Stop measuring your week three against someone else's week twelve.",
+    "full": "You do not know where someone else is in their search when they announce the outcome. You are comparing your middle to their end. It is not a fair comparison and it will only make you feel worse. Run your own race."
+  },
+  {
+    "id": 24,
+    "category": "comparison-trap",
+    "tags": [
+      "mindset",
+      "focus",
+      "strategy"
+    ],
+    "headline": "The only search worth tracking is your own.",
+    "full": "How many applications did you send this week compared to last week. How many responses did you get. How many conversations moved forward. That is the data that matters. Everything else is distraction."
+  },
+  {
+    "id": 25,
+    "category": "energy-and-mental-health",
+    "tags": [
+      "energy",
+      "routine",
+      "sustainability"
+    ],
+    "headline": "Treat the search like a job. Start at a time. Stop at a time.",
+    "full": "Job searching without structure bleeds into everything. The guilt of not doing enough follows you into evenings and weekends. Set hours. When they are done, close the laptop. You will apply better tomorrow if you actually rest today."
+  },
+  {
+    "id": 26,
+    "category": "energy-and-mental-health",
+    "tags": [
+      "energy",
+      "mindset",
+      "applications"
+    ],
+    "headline": "Your worst applications get sent on your worst days. Protect your energy.",
+    "full": "The desperation in a message written at midnight, after a bad day, after a rejection, reads in the message. Energy is not just a wellness concept. It is a strategic resource. Spend it deliberately."
+  },
+  {
+    "id": 27,
+    "category": "energy-and-mental-health",
+    "tags": [
+      "energy",
+      "long-search",
+      "resilience"
+    ],
+    "headline": "At week three, everything feels broken. It is not.",
+    "full": "The initial momentum has worn off, results are slow, and your confidence is taking hits. Every person who has come out the other side has sat exactly where you are sitting right now. The valley is normal. It is not the end of the story."
+  },
+  {
+    "id": 28,
+    "category": "energy-and-mental-health",
+    "tags": [
+      "energy",
+      "routine",
+      "wellbeing"
+    ],
+    "headline": "Exercise, sleep, and food are not luxuries during a job search. They are infrastructure.",
+    "full": "When the search gets hard, these are the first things to go. That is exactly backwards. Your ability to show up sharp in an interview, to write a good application, to handle rejection without spiralling - all of it runs on the basics. Protect them."
+  },
+  {
+    "id": 29,
+    "category": "energy-and-mental-health",
+    "tags": [
+      "energy",
+      "mindset",
+      "sustainability"
+    ],
+    "headline": "Some days the win is just sending two applications and closing the laptop.",
+    "full": "Not every day needs to be a ten application day. Some days you are running low and the honest move is to do a little, do it well, and stop. Consistency over weeks matters more than intensity on any single day."
+  },
+  {
+    "id": 30,
+    "category": "energy-and-mental-health",
+    "tags": [
+      "community",
+      "support",
+      "loneliness"
+    ],
+    "headline": "The loneliness of this process is real. You do not have to sit in it alone.",
+    "full": "Job searching is one of the few hard things people do entirely in private. Tell someone how it is actually going. Not the polished version. The real one. Being heard by even one person changes how the whole thing feels."
+  },
+  {
+    "id": 31,
+    "category": "momentum-and-starting",
+    "tags": [
+      "momentum",
+      "early-search",
+      "action"
+    ],
+    "headline": "You will never feel ready. Send the application anyway.",
+    "full": "The version of you that feels completely ready is built by sending applications, doing interviews, and hearing feedback. You do not get ready first. You get ready by doing it."
+  },
+  {
+    "id": 32,
+    "category": "momentum-and-starting",
+    "tags": [
+      "momentum",
+      "early-search",
+      "strategy"
+    ],
+    "headline": "Momentum is the real goal in the first two weeks. Not results.",
+    "full": "Results take time. Momentum is available immediately. Send applications before they feel perfect. Reach out before you feel ready. The habit of moving every day is worth more in week one than any single perfect application."
+  },
+  {
+    "id": 33,
+    "category": "momentum-and-starting",
+    "tags": [
+      "momentum",
+      "action",
+      "perfection"
+    ],
+    "headline": "A sent application always beats a perfect one sitting in drafts.",
+    "full": "You will find something to tweak forever if you let yourself. At some point the application is good enough and the only thing left to do is send it. Done and sent beats perfect and unsent every single time."
+  },
+  {
+    "id": 34,
+    "category": "momentum-and-starting",
+    "tags": [
+      "momentum",
+      "early-search",
+      "data"
+    ],
+    "headline": "The first ten applications are practice. Treat them that way.",
+    "full": "You will learn more from sending ten applications and seeing what happens than from spending two weeks perfecting one. The process teaches you things no amount of preparation can. Get into it early and learn fast."
+  },
+  {
+    "id": 35,
+    "category": "momentum-and-starting",
+    "tags": [
+      "action",
+      "procrastination",
+      "mindset"
+    ],
+    "headline": "Starting is the hardest part. After that, it is just showing up.",
+    "full": "The weight of starting a job search is disproportionate to the actual first step. Open one job board. Read three listings. Send one application. That is all day one needs to be. The machine starts moving from there."
+  },
+  {
+    "id": 36,
+    "category": "applications-and-resume",
+    "tags": [
+      "resume",
+      "applications",
+      "strategy"
+    ],
+    "headline": "Your resume gets you the room. Right now, let us get you the room.",
+    "full": "One recruiter, eight seconds, a hundred applications in a pile. Your resume needs to make them stop scrolling. That is its only job. Not to tell your whole story. Just to earn the next conversation."
+  },
+  {
+    "id": 37,
+    "category": "applications-and-resume",
+    "tags": [
+      "resume",
+      "keywords",
+      "visibility"
+    ],
+    "headline": "If you are not using the words in the job description, the system may never see you.",
+    "full": "Most large companies use software to filter applications before a human ever sees them. If your resume does not contain the keywords from the job description, it gets filtered out automatically. Mirror their language. It is not dishonest. It is how the system works."
+  },
+  {
+    "id": 38,
+    "category": "applications-and-resume",
+    "tags": [
+      "resume",
+      "clarity",
+      "strategy"
+    ],
+    "headline": "Clarity on a resume beats cleverness every time.",
+    "full": "A recruiter does not want to figure out what you did. They want it to be obvious. Clear job titles, clear outcomes, clear dates. Save the nuance for the interview. The resume is a filter, not a story."
+  },
+  {
+    "id": 39,
+    "category": "applications-and-resume",
+    "tags": [
+      "applications",
+      "tailoring",
+      "strategy"
+    ],
+    "headline": "Tailor one thing per application. Just the opening line.",
+    "full": "You do not need to rewrite the whole thing for every job. Change the first line of your summary to speak directly to what they are looking for. That small move signals that you read the listing and are not spraying the same document everywhere."
+  },
+  {
+    "id": 40,
+    "category": "applications-and-resume",
+    "tags": [
+      "resume",
+      "feedback",
+      "improvement"
+    ],
+    "headline": "Ask someone who has hired people to look at your resume. Not just a friend.",
+    "full": "A friend will tell you it looks good because they want to be kind. Someone who has sat on the other side of the hiring table will tell you what is actually missing. Find that person. Buy them a coffee. The feedback is worth more than any resume template."
+  },
+  {
+    "id": 41,
+    "category": "skill-gap-and-self-doubt",
+    "tags": [
+      "applications",
+      "confidence",
+      "self-doubt"
+    ],
+    "headline": "Apply even when you meet seven out of ten requirements. Everyone does.",
+    "full": "Job descriptions are wish lists. The person who wrote it knows they will not find everything. The person who got the last role probably did not have it all either. Seven out of ten is a green light. Waiting until you have ten out of ten means waiting forever."
+  },
+  {
+    "id": 42,
+    "category": "skill-gap-and-self-doubt",
+    "tags": [
+      "confidence",
+      "self-doubt",
+      "mindset"
+    ],
+    "headline": "The gap between what you know and what the job needs is smaller than it feels.",
+    "full": "Self-doubt has a way of turning a small distance into an insurmountable one. Most roles are learnable by someone with your foundation. The question they are really asking is whether you are capable and coachable. You are."
+  },
+  {
+    "id": 43,
+    "category": "skill-gap-and-self-doubt",
+    "tags": [
+      "confidence",
+      "interviews",
+      "preparation"
+    ],
+    "headline": "You have done harder things than this interview. Remember that walking in.",
+    "full": "Whatever is on the other side of that call or that room, you have navigated harder. You have figured things out with less information, less support, less time. An interview is a conversation. You have had thousands of those."
+  },
+  {
+    "id": 44,
+    "category": "skill-gap-and-self-doubt",
+    "tags": [
+      "self-doubt",
+      "resume",
+      "experience"
+    ],
+    "headline": "Do not undersell what you have done because it feels ordinary to you.",
+    "full": "The things you have done long enough feel normal. They are not normal to someone who has not done them. What feels like basic experience to you looks like valuable expertise to someone hiring into that function for the first time. Write it down. Own it."
+  },
+  {
+    "id": 45,
+    "category": "interviews",
+    "tags": [
+      "interviews",
+      "strategy",
+      "mindset"
+    ],
+    "headline": "The goal of the first interview is only the second interview.",
+    "full": "Not the job. Not the offer. Just the next conversation. When you walk in trying to win everything at once, you play nervous. Walk in trying to earn one more conversation. That is a winnable game."
+  },
+  {
+    "id": 46,
+    "category": "interviews",
+    "tags": [
+      "interviews",
+      "preparation",
+      "skill"
+    ],
+    "headline": "Interviewing is a skill. It gets better by doing, not by preparing more.",
+    "full": "At some point, more preparation produces diminishing returns. You learn to interview by interviewing. Each one teaches you something no mock session can. Take every interview seriously, even for roles you are not sure about. The practice is the point."
+  },
+  {
+    "id": 47,
+    "category": "interviews",
+    "tags": [
+      "interviews",
+      "strategy",
+      "communication"
+    ],
+    "headline": "They are not trying to catch you out. They are hoping you are the one.",
+    "full": "Interviewers want to fill the role as much as you want to fill it. They are not sitting across from you looking for reasons to reject you. They are hoping you make their decision easy. Walk in as someone who makes it easy."
+  },
+  {
+    "id": 48,
+    "category": "interviews",
+    "tags": [
+      "interviews",
+      "salary",
+      "negotiation"
+    ],
+    "headline": "Salary conversations feel awkward because you have not practised them. Practise them.",
+    "full": "Say the number out loud in an empty room. Say it to a friend. The discomfort of the conversation comes from unfamiliarity, not from the conversation itself. Once you have said your number ten times, it stops feeling like a confrontation and starts feeling like information."
+  },
+  {
+    "id": 49,
+    "category": "interviews",
+    "tags": [
+      "interviews",
+      "questions",
+      "preparation"
+    ],
+    "headline": "Always have a question ready at the end. Always.",
+    "full": "Have no questions sends a signal you did not mean to send. It says you are not curious, or you are not serious, or you are just going through the motions. Prepare two genuine questions about the role, the team, or the direction of the company. It takes ten minutes and it matters."
+  },
+  {
+    "id": 50,
+    "category": "waiting-game",
+    "tags": [
+      "waiting",
+      "mindset",
+      "process"
+    ],
+    "headline": "After a good interview, keep applying. Hope is not a pipeline.",
+    "full": "The best thing you can do after an interview you feel good about is to immediately move on to the next application. Not because you will not get it. But because keeping the pipeline moving protects your energy and your options. Do not stop for a maybe."
+  },
+  {
+    "id": 51,
+    "category": "waiting-game",
+    "tags": [
+      "waiting",
+      "mindset",
+      "rejection"
+    ],
+    "headline": "No news is not good news. But it is also not bad news. It is just slow news.",
+    "full": "Companies move at their own pace, which is almost always slower than yours. A week of silence after an interview does not mean you did not get it. It usually means someone is on leave, or they are interviewing two more people, or the hiring manager is buried. Follow up once. Then keep moving."
+  },
+  {
+    "id": 52,
+    "category": "waiting-game",
+    "tags": [
+      "waiting",
+      "process",
+      "control"
+    ],
+    "headline": "Focus on what you can control. Sending is in your control. Responding is not.",
+    "full": "You cannot make a company respond faster. You cannot make a recruiter like your profile. You cannot control the timeline. What you can control is the number of applications you send, the quality of your outreach, and how you show up in interviews. Put your energy there."
+  },
+  {
+    "id": 53,
+    "category": "networking-and-outreach",
+    "tags": [
+      "networking",
+      "outreach",
+      "strategy"
+    ],
+    "headline": "Networking is not schmoozing. It is asking people you respect for a conversation.",
+    "full": "The word networking makes people cringe because it sounds transactional. It does not have to be. Reach out to someone whose work you admire, whose career you find interesting, whose path overlaps with yours. Ask for twenty minutes. Most people say yes. Most conversations lead somewhere."
+  },
+  {
+    "id": 54,
+    "category": "networking-and-outreach",
+    "tags": [
+      "outreach",
+      "linkedin",
+      "visibility"
+    ],
+    "headline": "A short, specific message gets a response. A long, general one does not.",
+    "full": "When reaching out cold, say who you are in one sentence, say why you are reaching out in one sentence, and ask for one specific thing. That is the whole message. Longer messages feel like homework. Short specific ones feel like respect for their time."
+  },
+  {
+    "id": 55,
+    "category": "networking-and-outreach",
+    "tags": [
+      "networking",
+      "relationships",
+      "long-term"
+    ],
+    "headline": "The best time to build your network was before you needed it. The second best time is now.",
+    "full": "You cannot manufacture a relationship in a week. But you can start one. A genuine comment on someone's post, a thoughtful message to a former colleague, a reintroduction to someone you lost touch with. Start now. Even small moves compound over a search."
+  },
+  {
+    "id": 56,
+    "category": "networking-and-outreach",
+    "tags": [
+      "networking",
+      "referrals",
+      "strategy"
+    ],
+    "headline": "Ask for a referral directly. Most people will not offer unless you ask.",
+    "full": "People in your life who work at companies you want to join will not always think to refer you. They are busy. It does not occur to them. Ask directly. Tell them the company, tell them the role, tell them what you bring. A referral from inside changes how your application is treated entirely."
+  },
+  {
+    "id": 57,
+    "category": "long-game",
+    "tags": [
+      "long-search",
+      "perspective",
+      "resilience"
+    ],
+    "headline": "One offer changes everything. You only need one.",
+    "full": "The entire search, every rejection, every silence, every almost - it all becomes irrelevant the moment one offer arrives. You are not trying to win every application. You are trying to find the one that works. One is enough."
+  },
+  {
+    "id": 58,
+    "category": "long-game",
+    "tags": [
+      "long-search",
+      "perspective",
+      "mindset"
+    ],
+    "headline": "The job you land will probably not be the one you expected. Stay open.",
+    "full": "The role that changes your career is often not the one you were most focused on. It comes from a conversation you almost did not have, a company you had not considered, a role that was not quite what you pictured. Keep the door wide. Specificity is good in targeting. Rigidity is not."
+  },
+  {
+    "id": 59,
+    "category": "long-game",
+    "tags": [
+      "long-search",
+      "resilience",
+      "perspective"
+    ],
+    "headline": "This will end. Every search ends. Yours will too.",
+    "full": "It does not feel that way in the middle of it. It feels like a permanent state. It is not. Every single person who has gone through this has come out the other side. The search ends. What you learn in it stays."
+  },
+  {
+    "id": 60,
+    "category": "long-game",
+    "tags": [
+      "long-search",
+      "milestones",
+      "progress"
+    ],
+    "headline": "Redefine what a good week looks like as the search goes on.",
+    "full": "In week one a good week is five applications. In week six a good week might be two good conversations. In week ten a good week might be staying consistent and not losing yourself. The metric should evolve. Do not measure week ten by week one standards."
+  },
+  {
+    "id": 61,
+    "category": "rejection",
+    "tags": [
+      "rejection",
+      "mindset",
+      "data"
+    ],
+    "headline": "Rejection before interview means your positioning is off. After means your story is.",
+    "full": "These are two completely different problems that need two completely different fixes. If callbacks are not coming, the resume or the targeting needs work. If interviews are not converting, the way you talk about yourself needs work. Diagnose before you fix."
+  },
+  {
+    "id": 62,
+    "category": "rejection",
+    "tags": [
+      "rejection",
+      "mindset",
+      "resilience"
+    ],
+    "headline": "A no from one company is not a no from the market.",
+    "full": "Companies reject great candidates for reasons that have nothing to do with the candidate. Budget changes. Internal promotions. A hiring freeze announced the week after your interview. A no is rarely the full story. Do not let one company's decision become your conclusion about yourself."
+  },
+  {
+    "id": 63,
+    "category": "rejection",
+    "tags": [
+      "rejection",
+      "feedback",
+      "improvement"
+    ],
+    "headline": "Ask for feedback after a rejection. Most will not reply. Some will. Those are gold.",
+    "full": "Send a short, gracious message after a rejection asking if there is any feedback they can share. Most will not respond. But occasionally someone will tell you something specific and honest that changes how you approach every interview after that."
+  }
+]

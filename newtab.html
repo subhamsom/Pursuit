@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pursuit</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="newtab.css" />
+</head>
+<body>
+  <div id="bg-image" class="bg-layer"></div>
+  <video id="bg-video" class="bg-layer" autoplay muted loop playsinline></video>
+  <div class="bg-overlay"></div>
+
+  <div class="top-bar">
+    <span class="pursuit-label">Pursuit &middot; Daily Motivation for Your Job Search</span>
+  </div>
+
+  <div class="centre">
+    <div class="date" id="date"></div>
+    <div class="clock-wrap">
+      <span class="clock-digit" id="h1">0</span>
+      <span class="clock-digit" id="h2">0</span>
+      <span class="clock-colon">:</span>
+      <span class="clock-digit" id="m1">0</span>
+      <span class="clock-digit" id="m2">0</span>
+    </div>
+    <div class="quote-wrap" id="quote-wrap">
+      <div class="headline" id="headline"></div>
+      <div class="full-thought" id="full-thought"></div>
+      <div class="hint">hover to read more</div>
+    </div>
+  </div>
+
+  <script src="newtab.js"></script>
+</body>
+</html>
