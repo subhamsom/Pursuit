@@ -1,5 +1,5 @@
 // ── Config ──────────────────────────────────────────────
-const PEXELS_API_KEY  = 'Eh7ZMGyNjdniuBhKwZjJkQM14g2ZOm7yUX88A2OkHWd82TewU2R4GRsR';
+const PEXELS_API_KEY  = 'YOUR_PEXELS_API_KEY';
 const PEXELS_QUERY    = 'landscape nature';
 const CACHE_DURATION  = 6 * 60 * 60 * 1000; // 6 hours
 
