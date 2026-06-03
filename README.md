@@ -94,6 +94,6 @@ The quote database and background collection are the only two things that define
 
 ---
 
-Built by [@subhamsom]([https://github.com/subhamsom](https://www.linkedin.com/in/subhamsom05/) during a job search.
+Built by [@subhamsom]([https://github.com/subhamsom](https://www.linkedin.com/in/subhamsom05/)) during a job search.
 
 Happy pursuit. 🌄
